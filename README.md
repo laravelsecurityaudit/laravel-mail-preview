@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/laravelsecurityaudit/laravel-mail-preview.svg?style=flat-square)](https://packagist.org/packages/laravelsecurityaudit/laravel-mail-preview)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravelsecurityaudit/laravel-mail-preview.svg?style=flat-square)](https://packagist.org/packages/laravelsecurityaudit/laravel-mail-preview)
 [![Tests](https://github.com/laravelsecurityaudit/laravel-mail-preview/actions/workflows/tests.yml/badge.svg)](https://github.com/laravelsecurityaudit/laravel-mail-preview/actions/workflows/tests.yml)
-[![License](https://img.shields.io/github/license/laravelsecurityaudit/laravel-mail-preview.svg?style=flat-square)](LICENSE)
+[![License](https://poser.pugx.org/laravelsecurityaudit/laravel-mail-preview/license)](LICENSE)
 
 Database-backed mail preview inbox for Laravel applications.
 
