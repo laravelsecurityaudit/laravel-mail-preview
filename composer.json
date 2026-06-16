@@ -10,10 +10,10 @@
             "homepage": "https://laravelsecurityaudit.com"
         }
     ],
-    "homepage": "https://github.com/workaandrey/laravel-mail-preview",
+    "homepage": "https://github.com/laravelsecurityaudit/laravel-mail-preview",
     "support": {
-        "issues": "https://github.com/workaandrey/laravel-mail-preview/issues",
-        "source": "https://github.com/workaandrey/laravel-mail-preview"
+        "issues": "https://github.com/laravelsecurityaudit/laravel-mail-preview/issues",
+        "source": "https://github.com/laravelsecurityaudit/laravel-mail-preview"
     },
     "keywords": [
         "laravel",

@@ -25,5 +25,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release as an internal path package.
 
-[1.1.0]: https://github.com/workaandrey/laravel-mail-preview/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/workaandrey/laravel-mail-preview/releases/tag/v1.0.0
+[1.1.0]: https://github.com/laravelsecurityaudit/laravel-mail-preview/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/laravelsecurityaudit/laravel-mail-preview/releases/tag/v1.0.0
